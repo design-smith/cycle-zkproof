@@ -1,0 +1,99 @@
+ReferenceError: Cannot access 'routes' before initialization
+ReferenceError: Cannot access 'routes' before initialization
+ReferenceError: Cannot access 'routes' before initialization
+ReferenceError: Cannot access 'routes' before initialization
+ReferenceError: Cannot access 'routes' before initialization
+ReferenceError: Cannot access 'routes' before initialization
+Error: ENOENT: no such file or directory, open 'C:\Users\ngandawa\Desktop\CurrentProjects\trident\scripts\circuit.wasm'
+Error: ENOENT: no such file or directory, open 'C:\Users\ngandawa\Desktop\CurrentProjects\trident\scripts\circuit.wasm'
+Error: ENOENT: no such file or directory, open 'C:\Users\ngandawa\Desktop\CurrentProjects\trident\scripts\circuit.wasm'
+Error: Not enough values for input signal arr
+
+Error: Not enough values for input signal arr
+
+Error: Not enough values for input signal arr
+
+Error: Not enough values for input signal arr
+
+TypeError: Cannot read properties of null (reading 'dstAmount')
+Error: Not enough values for input signal arr
+
+Error: Not enough values for input signal arr
+
+Error: ENOENT: no such file or directory, open 'C:\Users\ngandawa\Desktop\CurrentProjects\trident\scripts\circuit.wasm'
+Error: ENOENT: no such file or directory, open 'C:\Users\ngandawa\Desktop\CurrentProjects\trident\scripts\circuit.wasm'
+Error: ENOENT: no such file or directory, open 'C:\Users\ngandawa\Desktop\CurrentProjects\trident\scripts\circuit.wasm'
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+TypeError: Cannot read properties of null (reading 'dstAmount')
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+ReferenceError: path is not defined
+TypeError: Cannot read properties of null (reading 'dstAmount')
+ReferenceError: path is not defined
+ReferenceError: path is not defined
+ReferenceError: path is not defined
+ReferenceError: path is not defined
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+TypeError: Cannot read properties of null (reading 'dstAmount')
+Error: Failed to generate zero-knowledge proof
+TypeError: Cannot read properties of null (reading 'dstAmount')
+TypeError: Cannot read properties of null (reading 'dstAmount')
+TypeError: Cannot read properties of null (reading 'dstAmount')
+Error: Failed to generate zero-knowledge proof
+ReferenceError: path is not defined
+ReferenceError: path is not defined
+ReferenceError: path is not defined
+Error: Failed to generate zero-knowledge proof
+TypeError: Cannot read properties of null (reading 'dstAmount')
+TypeError: Cannot read properties of null (reading 'dstAmount')
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: Failed to generate zero-knowledge proof
+Error: ENOENT: no such file or directory, open 'C:\Users\ngandawa\Desktop\CurrentProjects\dummy-zkProof\scripts\arrayReceived_js\arrayReceived.wasm'
+TypeError: wasmTester is not a function
+TypeError: wasmTester is not a function
+TypeError: wasmTester is not a function
+Error: Cannot find module 'C:\Users\ngandawa\Desktop\CurrentProjects\dummy-zkProof\scripts/arrayReceived_js/witness_calculator.js'
+Require stack:
+- C:\Users\ngandawa\Desktop\CurrentProjects\dummy-zkProof\scripts\execute.js
+Error: Not enough values for input signal arr
+
+TypeError: Cannot read properties of undefined (reading 'toUpperCase')
+TypeError: Cannot read properties of undefined (reading 'toUpperCase')
